@@ -42,3 +42,4 @@ Here is a log of my experiences week by week:
 ### Week 2 - Testing ♻️
 
 ### Week 1 - Toolkit 🔧
+![images](https://github.com/fac18/week-1-khol/blob/master/images/accessibility.png?raw=true)
