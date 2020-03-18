@@ -23,32 +23,41 @@ For the second half, we worked on two extended projects. One was a cohort-select
 
 Here is a log of my experiences week by week: 
 
-### Weeks 13-16 - Tech for Better project 🌎
+## Contents: 
+| WEEK | ACTIVITY | WEEK | ACTIVITY |
+| -------- | -------- | -------- | -------- | 
+|  [week 1](#Week-1--Toolkit-🔧)    | Toolkit     | [week 6](#Week-6--PostgreSQL-📊)     | PostgreSQL     |
+|  [week 2](#Week-2--Testing-♻️)    | Testing     | [week 7](#Week-7--Authentication🔒)      | Authentication     |
+|  [week 3](#Week-3--APIs-🔀)    | APIs     | [week 8](#Week-8--Express-⚡️)      | Express     |
+|  [week 4](#Week-4--Node.js-1/2-✈️)    | Node.js 1/2     | [weeks 10-12](#Weeks-10-13--Student-project-👭)      | React (self-selected project )    |
+|  [week 5](#Week-5--Node.js-2/2-🚀)     | Node.js 2/2     | [weeks 13-16](#Weeks-13-16--Tech-for-Better-project-🌎)     | React (Tech for better project)     |
+
+# Weeks 13-16 - Tech for Better project 🌎
 ![](https://i.imgur.com/hSpV7wB.png)
 
-### Weeks 10-13 - Student project 👭
+# Weeks 10-13 - Student project 👭
 ![](https://i.imgur.com/gBYMqg8.png)
 
-### Week 8 - Express ⚡️
+# Week 8 - Express ⚡️
 ...
 
-### Week 7 - Authentication🔒 
+# Week 7 - Authentication🔒 
 ![](https://i.imgur.com/V3ZGWhU.png)
 
-### Week 6 - PostgreSQL 📊
+# Week 6 - PostgreSQL 📊
 ![](https://i.imgur.com/eVk0PEm.png)
 
-### Week 5 - Node.js 2/2 🚀
+# Week 5 - Node.js 2/2 🚀
 ![](https://i.imgur.com/8esROiu.png)
 
-### Week 4 - Node.js 1/2 ✈️
+# Week 4 - Node.js 1/2 ✈️
 ![](https://i.imgur.com/kYAIkLz.png)
 
-### Week 3 - APIs 🔀
+# Week 3 - APIs 🔀
 ![](https://i.imgur.com/PsM4EYN.png)
 
-### Week 2 - Testing ♻️
+# Week 2 - Testing ♻️
 ![](https://i.imgur.com/lxN13mY.png)
 
-### Week 1 - Toolkit 🔧
+# Week 1 - Toolkit 🔧
 ![](https://i.imgur.com/tHiFBAo.png)
