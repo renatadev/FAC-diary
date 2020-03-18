@@ -30,7 +30,7 @@ Here is a log of my experiences week by week:
 |  [week 2](#Week-2---Testing-%EF%B8%8F)    | Testing     | [week 7](#Week-7---Authentication)      | Authentication     |
 |  [week 3](#Week-3---APIs-)    | APIs     | [week 8](#Week-8---Express-%EF%B8%8F)      | Express     |
 |  [week 4](#Week-4---Nodejs-1/2-%EF%B8%8F)    | Node.js 1/2     | [weeks 10-12](#Weeks-10-13---Student-project-)      | React (self-selected project )    |
-|  [week 5](#Week-5---Nodejs-2/2-)     | Node.js 2/2     | [weeks 13-16](#Weeks-13-16---Tech-for-Better-project)     | React (Tech for better project)     |
+|  [week 5](#Week-5---Nodejs-2/2-)     | Node.js 2/2     | [weeks 13-16](#Weeks-13-16---Tech-for-Better-project-)     | React (Tech for better project)     |
 
 # Weeks 13-16 - Tech for Better project 🌎
 ![](https://i.imgur.com/hSpV7wB.png)
