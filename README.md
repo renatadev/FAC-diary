@@ -39,7 +39,7 @@ Here is a log of my experiences week by week:
 ![](https://i.imgur.com/gBYMqg8.png)
 
 # Week 8 - Express ⚡️
-...
+![](https://i.imgur.com/FAOltRi.jpg)
 
 # Week 7 - Authentication🔒 
 ![](https://i.imgur.com/V3ZGWhU.png)
