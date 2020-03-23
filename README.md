@@ -33,9 +33,37 @@ Here is a log of my experiences week by week:
 |  [week 5](#Week-5---Nodejs-2/2-)     | Node.js 2/2     | [weeks 13-16](#Weeks-13-16---Tech-for-Better-project-)     | React (Tech for better project)     |
 
 # Weeks 13-16 - Tech for Better project 🌎
+
+### 💻 Tech Stack
+
+React, Netlify Lambda functions, AirTable, Styled components, Material UI, Codecov, Travis CI, Jest
+
+See the [code](https://github.com/fac18/t4b-g2h)
+
+Visit the [website](https://gateway2heritage.netlify.com/)
+
 ![](https://i.imgur.com/hSpV7wB.png)
 
 # Weeks 10-13 - Student project 👭
+
+
+### Learning outcomes:
+
+| Design | Infrastrucure | React | Testing |
+| -------- | -------- | -------- | -------- | 
+|   Rapid prototyping   | React app with an Express backend |  React Router    |   Testing with React Router  |
+|  User research |  Travis and Codecov  | React Refs     |  jest.useFakeTimers   |
+|  User testing, using Figma to build a prototype | Airtable  | React useReducer      | Mocking     |
+|  SVG files   | Google Maps and Geocoding APIs | Styled components |   |
+
+### 💻 Tech Stack
+
+React, Express, AirTable Google Maps API, Google Geocoding API
+
+See the [code](https://github.com/fac18/signpost)
+
+Visit the [website](https://signpost-app.herokuapp.com/)
+
 ![](https://i.imgur.com/gBYMqg8.png)
 
 # Week 8 - Express ⚡️
