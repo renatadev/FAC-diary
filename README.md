@@ -60,4 +60,15 @@ Here is a log of my experiences week by week:
 ![](https://i.imgur.com/lxN13mY.png)
 
 # Week 1 - Toolkit 🔧
+### Learning outcomes: 
+Semantic HTML, accessibility, BEM methodology, mobile first desegin, responsive web design, gitflow and use of git & github, pair programming methods, command line, regular expressions and code reviewing. 
+
+### Project: Be familiar with Git & Github :octocat:
+
+> Make a one page responsive website that provides a short portfolio for you and your team.
+
+See the [code](https://github.com/fac18/week-1-khol)
+
+Visit the [website](https://fac18.github.io/week-1-khol/)
+
 ![](https://i.imgur.com/tHiFBAo.png)
